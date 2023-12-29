@@ -1,0 +1,123 @@
+{
+    
+  "perros":[
+      {
+
+          "nombre": "rocky",
+                  "sexo": "marcelino",
+                  "raza": "rothenberger",
+                  "edad": "6 meses",
+                  "dirección": "4140 parker rd allentawn new mexico 31134",
+                  "personalidad": "cariñoso,inquieto,Jugueton",
+                  "historia": "rokcy es  un perrito muy lindo y cariñoso tiene 5 hermanito mas  y por cuestiones de espacio y tiempo no podremos cuidarlo a todos nuestro mision es encontra la familia ideal para el y  seguro que tu era la persona indicada  "
+          
+              },
+              
+              {
+                  "id":2,
+                  "nombre": "Chester",
+                  "sexo": "Masculino",
+                  "raza": "Golden retriever",
+                  "eda":"16 años",
+                  "dirección":"Cra. 72A #32a-06",
+                  "personalidad":" jugueton,Sociables,Exceso de energía",
+                  "historia":"leopoldo es  un perrito muy lindo y cariñoso tiene 5 hermanito mas  y por cuestiones de espacio y tiempo no podremos cuidarlo a todos nuestro mision es encontra la familia ideal para el y  seguro que tu era la persona indicada "
+          
+          
+              },
+              {
+                  "id":3,
+                  "nombre":"Papi",
+                  "sexo":"Femenino",
+                  "raza":"Chihuahua",
+                  "dirección":"Cl. 32B #71-22 a 71-66",
+                  "personalidad":"Jugueton,inqueto",
+                  "historia":"cleopatra es  un perrito muy lindo y cariñoso tiene 5 hermanito mas  y por cuestiones de espacio y tiempo no podremos cuidarlo a todos nuestro mision es encontra la familia ideal para el y  seguro que tu era la persona indicada "
+          
+              },
+              {
+                  "id":4,
+                  "nombre":"Pelusa ",          
+                  "sexo":"Masculino",
+                  "raza":"Bichón frisé",
+                  "dirección":"Cra. 69C #30c-87 a 30c-1",
+                  "personalidad":"cariñoso,inquieto,Jugueton",
+                  "historia":"kronos es  un perrito muy lindo y cariñoso tiene 5 hermanito mas  y por cuestiones de espacio y tiempo no podremos cuidarlo a todos nuestro mision es encontra la familia ideal para el y  seguro que tu era la persona indicada "
+          
+              },
+             
+              {
+                  "id":5,
+                  "nombre":"Charlie ",          
+                  "sexo":"Masculino",
+                  "raza":"Chihuahua",
+                  "dirección":"Cra. 87 #104b-32 a 104b-76",
+                  "personalidad":"alegre,devoto,alerta",
+                  "historia":"charlie es  un perrito muy lindo y cariñoso tiene 5 hermanito mas  y por cuestiones de espacio y tiempo no podremos cuidarlo a todos nuestro mision es encontra la familia ideal para el y  seguro que tu era la persona indicada "
+          
+              },
+              {
+                  "id":6,
+                  "nombre":"kira",          
+                  "sexo":"Femenino",
+                  "raza":"Golden retriever",
+                  "dirección":"Cra. 88 #98c-2 a 98c-110",
+                  "personalidad":"cariñoso,inquieto,Jugueton",
+                  "historia":"kira es  un perrito muy lindo y cariñoso tiene 5 hermanito mas  y por cuestiones de espacio y tiempo no podremos cuidarlo a todos nuestro mision es encontra la familia ideal para el y  seguro que tu era la persona indicada "
+          
+              }
+  ]
+
+         
+      ,
+          
+      "gatos": [
+          
+          {
+              "id": 1,
+              "nombre": "Matilde",
+              "sexo": "Femenino",
+              "raza": "British Shorthair",
+              "edad": "6 meses",
+              "dirección": "4140 Parker Rd. Allentown, New Mexico 31134",
+              "personalidad": "Jugueton,Inquieto,Tierno",
+              "historia": "Matilde es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita."
+      
+      
+          },
+              
+          {
+              "id":2,
+              "nombre":"tobi",
+              "sexo":"Masculino",
+              "raza":"Kity Bombay",
+              "edad":"13 años",
+              "dirección":"Cra. 72A #31-111 a 31-1",
+              "personalidad":"Jugueton,inqueto",
+              "historia":"tobi es  un perrito muy lindo y cariñoso tiene 5 hermanito mas  y por cuestiones de espacio y tiempo no podremos cuidarlo a todos nuestro mision es encontra la familia ideal para el y  seguro que tu era la persona indicada  "
+             
+              
+           
+          },
+      
+          { "id":3,
+             "nombre":"maradona",
+             "sexo":"Femenino",
+             "raza":"Birmano",
+             "edad":"13 años",
+             "dirección":"Cl. 76Sur #53-281 a 53-1",
+             "personalidad":" jugueton,Sociables,Exceso de energía",
+             "historia":"maradona es  un perrito muy lindo y cariñoso tiene 5 hermanito mas  y por cuestiones de espacio y tiempo no podremos cuidarlo a todos nuestro mision es encontra la familia ideal para el y  seguro que tu era la persona indicada "
+          },
+          {
+             "id":4,
+              "nombre":"kira",
+              "sexo":"Ffemenino",
+              "raza":"Bombón americano",
+              "edad":"15 años",
+              "dirección":"Cl. 76Sur",
+              "personalidad":" jugueton,Sociables,Exceso de energía",
+              "historia":"cleopatra es  un perrito muy lindo y cariñoso tiene 5 hermanito mas  y por cuestiones de espacio y tiempo no podremos cuidarlo a todos nuestro mision es encontra la familia ideal para el y  seguro que tu era la persona indicada "
+          }    
+          
+      ]}
